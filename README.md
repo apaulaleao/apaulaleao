@@ -3,7 +3,7 @@
 
 * Nordeste- BR :desert:
 * Aluno da Blue Edtech :blue_heart:
-* Foco: Front End :computer:
+* Foco: FullStack :computer:
 
 <div>
   <a href="https://github.com/apaulaleao">
