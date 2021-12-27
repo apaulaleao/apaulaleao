@@ -1,4 +1,4 @@
-## Olá! Sou Ana Paula Leão, bem vindo(a)! 👋 Hi.gif
+## Olá! Sou Ana Paula Leão, bem vindo(a)! 👋 
 
 
 * Nordeste- BR :desert:
