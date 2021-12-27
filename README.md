@@ -1,9 +1,11 @@
-## Olá! Sou Ana Paula Leão, bem vindo(a)! 👋
+## Olá! Sou Ana Paula Leão, bem vindo(a)! 👋 Hi.gif
 
 
 * Nordeste- BR :desert:
 * Aluno da Blue Edtech :blue_heart:
+* Engenharia de Software - em formação
 * Foco: FullStack :computer:
+* Linkedin: https://www.linkedin.com/in/apaulaleao/
 
 <div>
   <a href="https://github.com/apaulaleao">
