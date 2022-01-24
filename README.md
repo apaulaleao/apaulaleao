@@ -2,9 +2,9 @@
 
 
 * Nordeste- BR :desert:
-* Aluno da Blue Edtech :blue_heart:
-* Engenharia de Software - em formação
-* Foco: FullStack :computer:
+* Aluna da Blue Edtech :blue_heart:
+* Engenharia de Software - Ampli Pitágoras - em curso
+* Foco: FullStack JS :computer:
 * Linkedin: https://www.linkedin.com/in/apaulaleao/
 
 <div>
